@@ -1,0 +1,1 @@
+`The Extract Parameter refactoring is used to add a new parameter to a method declaration and to update the method calls accordingly.`
