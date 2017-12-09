@@ -11,6 +11,7 @@ import java.awt.*;
  https://www.jetbrains.com/help/idea/extract-parameter-object.html
  */
 public class A {
+    //选择方法内参数重构
     private void drawEdge(Graphics g, float edgeWidth,
                           int x1, int x2, int y1, int y2) {
         final Graphics2D g2d = (Graphics2D) g;
