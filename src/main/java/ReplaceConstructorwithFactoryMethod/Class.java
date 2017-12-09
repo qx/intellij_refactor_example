@@ -7,7 +7,7 @@ package ReplaceConstructorwithFactoryMethod;
 
  */
 public class Class {
-    public Class(String s) {
+    public Class(String s) {//constructor refactor this
     }
 }
 
