@@ -6,7 +6,7 @@ package Extract_Refactorings.ExtractField;
 public class ClassA {
     AnotherClass anotherClass;
     public void method() {
-        int a = 1;
+        int a = 1;//curse here
         int b = a + anotherClass.intValue();
         int c = b + anotherClass.intValue();
     }
